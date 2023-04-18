@@ -2,7 +2,7 @@
         <title> Curriculum Eduardo Mardoqueo Cruz Rivera </title> 
     </head> 
         <body bgcolor="#E6E6E6"> <center><h1><font color="#188e8e">Eduardo Mardoqueo Cruz Rivera</font></h1></center> 
-    <img src="Curriculum.jpeg" alt="Foto de Eduardo" style="width: 100px"> <center><h1>Medios de comunicación</h1></center> 
+    <img src="img.jpeg" alt="Foto de Eduardo" style="width: 100px"> <center><h1>Medios de comunicación</h1></center> 
     <table border="" bgcolor="#848484" style="width: 100%;">
          <tbody><tr> <th>Email</th>
          <th>Número de teléfono</th> 
